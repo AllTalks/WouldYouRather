@@ -6,7 +6,7 @@ To get access to the API that is used by this list, please contact **JackDawson#
 ## Contributing
 To contribute to the list, please create a **pull request**, with the following format:
 ```
-<question_1> or <question_2>
+question_1 or question_2
 ```
 
 The **or** part is required, pull requests without this will either be denied or tweaked.
