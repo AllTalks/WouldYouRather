@@ -10,6 +10,7 @@ question_1 or question_2
 ```
 
 The **or** part is required, pull requests without this will either be denied or tweaked.
+For example: **Go to Heaven or Go to Hell**.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
